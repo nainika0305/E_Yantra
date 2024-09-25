@@ -1,0 +1,7 @@
+The process:
+
+1. Interfaced ADC: Connected the ADC with the microcontroller on the Firebird V robot.
+2. Configured Sensors: Worked with the White Line and IR Proximity sensors.
+3. Completed Skeleton Code: Completed incomplete functions in the provided code.
+4. Retrieved ADC Data: Obtained 10-bit ADC results from the 2nd Sharp sensor using the ADC Conversion Interrupt.
+5. Displayed Data: Output the ADC data on an LCD and sent it to the UART Serial Terminal.
