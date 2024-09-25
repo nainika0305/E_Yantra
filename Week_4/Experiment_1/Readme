@@ -1,0 +1,9 @@
+The process:
+
+1. Configured Interrupt: Set up the Interrupt Switch on the Firebird V to trigger an interrupt on switch press.
+2. Initialized Buzzer: Prepared the Buzzer for activation when the interrupt occurs.
+3. Completed Code: Filled in incomplete functions.
+5. Handled Interrupts: Set up the external interrupt settings to enable the interrupt functionality.
+6. Controlled Buzzer: Implemented functions to turn the Buzzer on and off in response to the interrupt.
+
+This ensures that pressing the Interrupt Switch activates the Buzzer as intended.
