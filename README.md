@@ -3,13 +3,20 @@ This repository contains the projects developed during the e-Yantra Online Crash
 
 I was one among 11 selected from my college to take this course. Participating in this course was an invaluable experience that greatly enhanced my technical skills. 
 
-#Course Details
+**Course Details**
+
 Projects: Week wise either 1/2 Experiments were given. 
+
 Assessments: Weekly quizzes and assignments to evaluate progress and understanding.
+
 Mode: Online, with video lectures, reading materials, and a supportive discussion forum.
 
-#Technologies Used:
+**Technologies Used:**
 -Embedded C
+
 -Atmel Studio / Microchip Studio
+
 -SimulIDE
+
 -Firebird V robot
+
