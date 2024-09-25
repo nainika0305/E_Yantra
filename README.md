@@ -11,6 +11,18 @@ Assessments: Weekly quizzes and assignments to evaluate progress and understandi
 
 Mode: Online, with video lectures, reading materials, and a supportive discussion forum.
 
+**Course covered the following skillset:**
+
+1. ATmega2560 microcontroller
+   
+2. Register manipulation
+ 
+3. Interfacing of IO devices, ADC, PWM and Interrupts
+
+4. Embedded C programming
+ 
+5. Simulation using SimulIDE Software
+
 
 **Technologies Used:**
 
