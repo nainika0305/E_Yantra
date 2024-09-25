@@ -1,1 +1,6 @@
+In this experiment, we interfaced Bar-graph LEDs and an Interrupt Switch on the Firebird V robot, to toggle the status of two LEDs based on the switch's state.
 
+The process:
+1. Developed the Code: I interfaced Bar-graph LEDs and an Interrupt Switch with the ATmega2560 microcontroller by completing the skeleton code and addressing incomplete functions. 
+2. Built the Project: Compiled the code to generate a hex file for uploading to the microcontroller, ensuring the project was set to use the correct ATmega328P device.
+3. Simulated the Circuit: Used SimulIDE to load the hex file and test the LED functionality, confirming that the status of the LEDs toggled based on the Interrupt Switch's state.
