@@ -1,1 +1,10 @@
+This project demonstrates a simple LED blinking program using an Arduino Uno, created in Atmel Studio.
 
+What i did in this experiment:
+1. Set Up the Environment: You installed and configured the necessary software - Atmel Studio (for Windows).
+2. Downloaded and Extracted Files: Obtained the code and simulation files.
+3. Developed the Code: Worked on the LED blinking program by debugging and fixing errors in the pre-written code.
+4. Compiled the Code: Built the project to generate a hex file, which is necessary for programming the Arduino.
+5. Simulated the Circuit: Used SimulIDE to simulate the Arduino circuit and loaded the hex file, observing the LED blinking as expected.
+
+Overall, I gained hands-on experience in embedded systems programming and simulation.
