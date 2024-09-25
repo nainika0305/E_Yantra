@@ -1,0 +1,7 @@
+The process:
+
+1. Completed Code: Filled in the provided function stubs in the skeleton code to ensure proper operation.
+2. Implemented Motor Control Logic: Developed functions to move the motors forward and control their speed by adjusting the PWM duty cycle.
+3. Loop for Speed Variation: Created a loop to gradually increase and decrease the speed of the motors by varying the duty cycle every 10 milliseconds.
+
+This experiment allowed us to effectively control the speed of the motors using PWM, familiarizing me with timer and motor control functionalities.
