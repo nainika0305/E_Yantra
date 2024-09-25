@@ -26,12 +26,12 @@ Mode: Online, with video lectures, reading materials, and a supportive discussio
 
 **Technologies Used:**
 
--Embedded C
+1. Embedded C
 
--Atmel Studio / Microchip Studio
+2. Atmel Studio / Microchip Studio
 
--SimulIDE
+3. SimulIDE
 
--Firebird V robot
+4. Firebird V robot
 
 
