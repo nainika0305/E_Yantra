@@ -1,1 +1,8 @@
+In this experiment, we interfaced a buzzer with the ATmega2560 microcontroller on the Firebird V robot. 
+The goal was to configure the buzzer as an output device and make it turn ON and OFF at 1-second intervals indefinitely.
+
+The process:
+1. Developed the Code: I worked on interfacing a buzzer with the ATmega2560 microcontroller by debugging the provided skeleton code and fixing any errors.
+2. Built the Project: I compiled the code to generate a hex file for uploading to the microcontroller.
+3. Simulated the Circuit: Used SimulIDE to load the hex file and test the buzzer functionality, ensuring it turned ON and OFF at 1-second intervals.
 
